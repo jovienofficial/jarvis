@@ -1,0 +1,8 @@
+{
+  "name": "JARVIS Neural Link",
+  "description": "A futuristic AI interface featuring hand-gesture controlled gaming, voice recognition, and a Gemini-powered neural core.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
